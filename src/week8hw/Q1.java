@@ -27,7 +27,7 @@ class CustomerFactory {
             case "GUEST": return new Guest(); 
             default: return null; 
         } 
-    } 
+    }
 } 
 
 public class Q1 { 
