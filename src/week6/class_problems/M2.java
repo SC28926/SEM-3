@@ -1,4 +1,4 @@
-package week6;
+package week6.class_problems;
 
 class MessWallet {
     private double balance;

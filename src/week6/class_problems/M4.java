@@ -1,4 +1,4 @@
-package week6;
+package week6.class_problems;
 
 class IdCard {
     String name;

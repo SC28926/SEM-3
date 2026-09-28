@@ -1,4 +1,4 @@
-package week6hw;
+package week6.assigment_problems;
 
 class Employe {
     String empName;
