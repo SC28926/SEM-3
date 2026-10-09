@@ -1,4 +1,4 @@
-package week6.assigment_problems;
+package encapsulation.assigment_problems;
 
 class BookInventory {
     String title;

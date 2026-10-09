@@ -1,4 +1,4 @@
-package week6.class_problems;
+package encapsulation.class_problems;
 
 class Student {
     String name;
