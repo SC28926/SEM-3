@@ -1,4 +1,4 @@
-package week8.assigment_problems;
+package inheritence.assigment_problems;
 
 import java.time.LocalDate;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package week8.class_problems;
+package inheritence.class_problems;
 import java.time.*;
 import java.time.format.*;
 import java.util.*;

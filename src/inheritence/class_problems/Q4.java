@@ -1,4 +1,4 @@
-package week8.class_problems;
+package inheritence.class_problems;
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;

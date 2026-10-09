@@ -1,4 +1,4 @@
-package week8.assigment_problems;
+package inheritence.assigment_problems;
 
 import java.util.Scanner;
 
