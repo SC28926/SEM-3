@@ -1,4 +1,4 @@
-package week7.assigment_problems;
+package polymorphism.assigment_problems;
 
 public class PasswordChecker {
     private final String password;

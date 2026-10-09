@@ -1,4 +1,4 @@
-package week7.class_problems;
+package polymorphism.class_problems;
 
 public class PiggyBank {
     private final String id;

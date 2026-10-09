@@ -1,4 +1,4 @@
-package week7.class_problems;
+package polymorphism.class_problems;
 
 public class Locker {
     private final int lockerNumber;
