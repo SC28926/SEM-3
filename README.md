@@ -1,3 +1,15 @@
+## Date: 09-10-2026
+**Today's Work:**
+Set up the clean repository structure for Week 9 and began preparing for the new topic.
+
+**Next Session Plan:**
+Complete all live class files and home assignments for the week.
+
+**Issues Faced:**
+None
+
+---
+
 ## Date: 29-09-2026
 **Today's Work:**
 - Successfully structured repository layout for Semester 3
