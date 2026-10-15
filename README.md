@@ -1,5 +1,17 @@
 ## Date: 15-10-2026
 **Today's Work:**
+Completed Session 2 class problems and assignments under the 'stringOperation' package.
+
+**Next Session Plan:**
+Prepare for Session 3.
+
+**Issues Faced:**
+None
+
+---
+
+## Date: 15-10-2026
+**Today's Work:**
 Initialized the repository structure and completed the Session 1 coding layout for the 'string' topic, including class problems and assignment structures.
 
 **Next Session Plan:**
