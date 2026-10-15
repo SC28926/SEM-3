@@ -1,5 +1,18 @@
 ## Date: 15-10-2026
 **Today's Work:**
+- Initialized Session 3 folder layout and packages for the 'exceptionHandling' topic.
+
+**Next Session Plan:**
+- Prepare for Session 4 workflow.
+
+**Issues Faced:**
+- None
+
+---
+
+
+## Date: 15-10-2026
+**Today's Work:**
 Completed Session 2 class problems and assignments under the 'stringOperation' package.
 
 **Next Session Plan:**
