@@ -1,6 +1,18 @@
 ## Date: 15-10-2026
 **Today's Work:**
-- Initialized Session 3 folder layout and packages for the 'exceptionHandling' topic.
+- Completed Session 5 layout and package creation for the 'Constructor' topic.
+
+**Next Session Plan:**
+- Semester course review and documentation final check.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 15-10-2026
+**Today's Work:**
+- Initialized Session 3 folder layout and packages for the 'arrays' topic.
 
 **Next Session Plan:**
 - Prepare for Session 4 workflow.
