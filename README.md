@@ -1,3 +1,18 @@
+## Date: 05-11-2026
+**Today's Work:**
+- Completed Session 11 on Sorting Algorithms.
+- Implemented sorting algorithms.
+
+**Next Session Plan:**
+- Move on to the next semester topic.
+
+**Issues Faced:**
+- None
+
+
+---
+
+
 ## Date: 15-10-2026
 **Today's Work:**
 - Completed Session 5 layout and package creation for the 'Constructor' topic.
