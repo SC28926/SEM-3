@@ -1,0 +1,29 @@
+package sorting_algorithm.assigment_problems;
+
+import java.util.Arrays;
+
+public class Library {
+    public static void shelf(int[] books) {
+        if (books == null || books.length < 2) {
+            return;
+        }
+
+        for (int i = 1; i < books.length; i++) {
+            int currentBook = books[i];
+            int j = i - 1;
+
+            while (j >= 0 && books[j] > currentBook) {
+                books[j + 1] = books[j];
+                j--;
+            }
+            books[j + 1] = currentBook;
+
+            System.out.println("After placing " + currentBook + ": " + Arrays.toString(books));
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] books = {30, 10, 40, 20};
+        shelf(books);
+    }
+}
