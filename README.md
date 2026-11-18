@@ -1,3 +1,16 @@
+## Date: 19-11-2026
+**Today's Work:**
+- Completed Session 12 on Stack and Queue.
+- Implemented stack and queue data structures along with class problems and assignments.
+
+**Next Session Plan:**
+- Move on to the next semester topic.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-11-2026
 **Today's Work:**
 - Completed Session 11 on Sorting Algorithms.
